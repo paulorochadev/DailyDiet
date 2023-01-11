@@ -45,9 +45,11 @@ Serão desenvolvidadas:
 
 ## :art: Layout
 
-![alt text](https://github.com/paulorochadev/DailyDiet/blob/master/assets/Project.png?raw=true)
-![alt text](https://github.com/paulorochadev/DailyDiet/blob/master/assets/Project2.png?raw=true)
-![alt text](https://github.com/paulorochadev/DailyDiet/blob/master/assets/Project3.png?raw=true)
+![alt text](https://github.com/paulorochadev/DailyDiet/blob/main/assets/Project.png?raw=true)
+
+![alt text](https://github.com/paulorochadev/DailyDiet/blob/main/assets/Project2.png?raw=true)
+
+![alt text](https://github.com/paulorochadev/DailyDiet/blob/main/assets/Project3.png?raw=true)
 
 
 ## :open_file_folder: Como baixar o projeto
